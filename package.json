@@ -8,12 +8,31 @@
     "eject": "expo eject"
   },
   "dependencies": {
+    "@expo/vector-icons": "^12.0.5",
+    "@react-navigation/native": "^6.0.6",
+    "@react-navigation/native-stack": "^6.2.5",
+    "@reduxjs/toolkit": "^1.6.2",
+    "@types/react-native-snap-carousel": "^3.8.5",
+    "@unform/core": "^2.1.6",
     "expo": "~43.0.0",
+    "expo-camera": "^12.0.3",
+    "expo-image-picker": "^11.0.3",
+    "expo-images-picker": "^2.2.3",
+    "expo-linear-gradient": "~10.0.3",
     "expo-status-bar": "~1.1.0",
     "react": "17.0.1",
     "react-dom": "17.0.1",
     "react-native": "0.64.2",
-    "react-native-web": "0.17.1"
+    "react-native-elements": "^3.4.2",
+    "react-native-ig-image-picker": "^1.0.2",
+    "react-native-image-picker": "^4.3.0",
+    "react-native-input-scroll-view": "^1.11.0",
+    "react-native-instagram-like-picker": "^1.0.2",
+    "react-native-safe-area-context": "^3.3.2",
+    "react-native-screens": "^3.9.0",
+    "react-native-snap-carousel": "^3.9.1",
+    "react-native-web": "0.17.1",
+    "react-redux": "^7.2.6"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9",
